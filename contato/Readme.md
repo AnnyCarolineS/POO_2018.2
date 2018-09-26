@@ -1,7 +1,12 @@
-# Relatório - Contato
+# Relatório - Contato (Atualizado)
+- Atualização 
+
+        Consegui implementar o update após ver os códigos de exemplos disponibilizados pelo professor.
+        Consegui entender como pegava cada palavra da linha e assim consegui concluir a ultima função do cógido. 
 - O que você fez?
 
         Consegui fazer o código quase completo do contato,implementei quase todas as funções pedidas.
+
 
 - Com quem e como você fez?    
     
