@@ -5,7 +5,7 @@
 
 - Com quem e como você fez?    
     
-        Eu fiz só, implementei o código da Conta Bancaria usando o codigo da agenda como base.
+        Eu fiz só, implementei o código da Conta Bancaria usando o codigo do contato como base.
 
 - O que você aprendeu?
 
