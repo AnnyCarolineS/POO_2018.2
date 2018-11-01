@@ -148,5 +148,16 @@
 - Quanto tempo levou para fazer a atividade?
 
         Virei a noite para conseguir implementar , so consegui concluir pela manha.
+        
+ # Relatório - Anotações e Repositorio 
+ 
+ - O que você fez?
+ 
+        Eu tenho eles implementados no notebook, só que não estou conseguindo passar eles para o github.
+# Relatório - Trem e Agiota_com_Repositorio
 
-      
+-O que você fez?
+
+        Aconteceu um grande imprevisto em relação a esses dois códigos, pois so salvei eles na pasta onde colocava as coisas do github. Assim que sai da sala do professor após mostrar eles ,  fui terminar o do trem e tentar posta-los. So que como não estava conseguindo, como tinha falando anteriormente, fui atras de soluções na internet , segui um "tutorial" que fez com que todas as novas pastas dos codigos apagassem de vez , só ficou os codigos antigos, os primeiros que eu havia feito. 
+        Os codígos anotações e repositorio so se salvaram por que tinha feito eles no Desktop e so depois salvado uma cópia na pasta do github , como tinha feito o trem e o agiota com repositorio diretamente na pasta do git não tive como "salva-los".
+        Espero que o professor compreenda , fiz todos os códigos e mostrei os mesmos. 
