@@ -154,6 +154,9 @@
  - O que você fez?
  
         Eu tenho eles implementados no notebook, só que não estou conseguindo passar eles para o github.
+        Mostrei ao professor.
+        
+        Nos dois códigos foram implementados todas as funções pedidas, no anotacões o que tive mais dificuldade em fazer foi o login e no repositorio o que tive mais dificuldade foi entender como um repositório iria funcionar , mas reassisti as aulas e consegui entender e implementar tudo.
 # Relatório - Trem e Agiota_com_Repositorio
 
 -O que você fez?
@@ -161,3 +164,16 @@
         Aconteceu um grande imprevisto em relação a esses dois códigos, pois so salvei eles na pasta onde colocava as coisas do github. Assim que sai da sala do professor após mostrar eles ,  fui terminar o do trem e tentar posta-los. So que como não estava conseguindo, como tinha falando anteriormente, fui atras de soluções na internet , segui um "tutorial" que fez com que todas as novas pastas dos codigos apagassem de vez , só ficou os codigos antigos, os primeiros que eu havia feito. 
         Os codígos anotações e repositorio so se salvaram por que tinha feito eles no Desktop e so depois salvado uma cópia na pasta do github , como tinha feito o trem e o agiota com repositorio diretamente na pasta do git não tive como "salva-los".
         Espero que o professor compreenda , fiz todos os códigos e mostrei os mesmos. 
+# Twitter
+-O que você fez?
+        
+        Estou com o codigo em um pendrive pois estou sem notebook ainda.
+        Consegui implementar todas as funções pedidas. Criei um repositorio generico para poder utiliza-lo tanto para os User quanto para Tweets. Usei varias coisas que aprendi na disciplina.Eu fiz o codigo sozinha e demorei 2 dias para conclui-lo pois estava com dificuldades para ter onde fazer os codigos.
+# Prova
+- O que voce fez?
+        
+        Na prova sinceramente eu nao consegui implementar as funçoes pois tive muita dificuldade ara entender o codigo do professor. Teria achado melhor ter feito o meu , pois tenho dificuldades para entender codigos de outras pessoas.
+        
+# Conclusão da Disciplina 
+        Eu fiz todos os codigos pedidos na disciplina , unico que nao implementei foi o salario pois ja tinha implementado o do trem e o professor falou que poderia implementar so um dos dois pois usavam a mesma logica de conhecimento.Como havia feito todos os codigos anteriores o preofessor falou que nao precisaria implemntar o whatsapp. 
+  
